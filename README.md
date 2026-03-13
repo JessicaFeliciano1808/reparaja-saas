@@ -31,5 +31,3 @@ Transformar oficinas automotivas em operações digitais com controle total de s
 - Integração com WhatsApp
 - Sistema SaaS para oficinas
 - Cobrança de mensalidade automática
-# ReparaJá – ERP para Oficinas Automotivas
-Sistema SaaS completo. Coloque a logo em public/logo.png.
