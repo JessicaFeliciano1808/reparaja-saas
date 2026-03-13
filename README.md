@@ -33,4 +33,3 @@ Transformar oficinas automotivas em operações digitais com controle total de s
 - Cobrança de mensalidade automática
 # ReparaJá – ERP para Oficinas Automotivas
 Sistema SaaS completo. Coloque a logo em public/logo.png.
-# reparaja-saas
